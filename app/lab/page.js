@@ -2,9 +2,9 @@ import SpringReveal from "@/components/ui/SpringReveal";
 import MagneticButton from "@/components/ui/MagneticButton";
 
 export const metadata = {
-  title: "Lab — PageStitches | AI Web Design Experiments",
+  title: "Lab — Stitch Website | AI Web Design Experiments",
   description:
-    "Welcome to the PageStitches lab. Experiments, demos, and things we built to push the boundaries of AI-powered web design.",
+    "Welcome to the Stitch Website lab. Experiments, demos, and things we built to push the boundaries of AI-powered web design.",
 };
 
 const experiments = [
@@ -16,7 +16,7 @@ const experiments = [
   },
   {
     title: "Design Playground",
-    desc: "Interactive glassmorphism, spring physics, and micro-interaction experiments. The building blocks behind every PageStitches site.",
+    desc: "Interactive glassmorphism, spring physics, and micro-interaction experiments. The building blocks behind every Stitch Website site.",
     status: "Coming Soon",
     icon: "🎨",
   },
@@ -108,7 +108,7 @@ export default function LabPage() {
                 Want to see something specific? Tell us what to build next.
               </p>
               <MagneticButton
-                href="https://wa.me/?text=Hi%2C%20I%20have%20an%20idea%20for%20the%20PageStitches%20lab"
+                href="https://wa.me/?text=Hi%2C%20I%20have%20an%20idea%20for%20the%20Stitch%20Website%20lab"
                 className="btn-ghost text-base px-8 py-4"
               >
                 Suggest an Experiment &rarr;

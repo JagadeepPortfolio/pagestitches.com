@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: "Do you build mobile-friendly websites?",
-    a: "Every PageStitches site is mobile-first. We design for phones first, then scale up to tablets and desktops. We test on real Android devices and target Lighthouse 85+ mobile scores — because 70% of your customers browse on phones.",
+    a: "Every Stitch Website site is mobile-first. We design for phones first, then scale up to tablets and desktops. We test on real Android devices and target Lighthouse 85+ mobile scores — because 70% of your customers browse on phones.",
   },
   {
     q: "What if I don't like the design?",
@@ -31,7 +31,7 @@ const faqs = [
   },
   {
     q: "How much does a website cost in Hyderabad?",
-    a: "Most agencies in Hyderabad charge ₹50,000 to ₹2,00,000 for a professional website. PageStitches delivers the same quality starting at ₹5,999 — because our AI-powered process eliminates the overhead of large teams and long timelines.",
+    a: "Most agencies in Hyderabad charge ₹50,000 to ₹2,00,000 for a professional website. Stitch Website delivers the same quality starting at ₹5,999 — because our AI-powered process eliminates the overhead of large teams and long timelines.",
   },
 ];
 
@@ -96,7 +96,7 @@ export default function FAQ() {
             </SpringReveal>
             <SpringReveal>
               <p className="text-sub text-cream-dim">
-                Everything you need to know about getting your business online with PageStitches in Hyderabad.
+                Everything you need to know about getting your business online with Stitch Website in Hyderabad.
               </p>
             </SpringReveal>
           </div>

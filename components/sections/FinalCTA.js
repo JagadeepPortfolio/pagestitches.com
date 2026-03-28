@@ -21,7 +21,7 @@ export default function FinalCTA() {
         aria-hidden="true"
         className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-extrabold text-[clamp(5rem,14vw,12rem)] text-white/[0.02] whitespace-nowrap pointer-events-none select-none"
       >
-        STITCH
+        STITCH WEBSITE
       </div>
 
       <div className="container-ps relative z-10 text-center">

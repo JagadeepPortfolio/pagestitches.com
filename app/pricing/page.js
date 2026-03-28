@@ -133,7 +133,7 @@ export default function PricingPage() {
         <div className="container-ps max-w-3xl">
           <SpringReveal>
             <h2 className="text-3xl font-extrabold text-cream mb-10 text-center">
-              PageStitches vs Agencies
+              Stitch Website vs Agencies
             </h2>
           </SpringReveal>
 
@@ -144,7 +144,7 @@ export default function PricingPage() {
                 <div className="p-4 text-cream-faint text-center">
                   Typical Agency
                 </div>
-                <div className="p-4 text-gold text-center">PageStitches</div>
+                <div className="p-4 text-gold text-center">Stitch Website</div>
               </div>
               {agencyComparison.map((row) => (
                 <div

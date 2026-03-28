@@ -44,8 +44,8 @@ export default function Header() {
         <div className="container-ps flex items-center justify-between h-16 md:h-[72px]">
           {/* Logo */}
           <a href="/" className="flex items-center gap-2 group">
-            <span className="text-gold font-bold text-lg tracking-tight">Page</span>
-            <span className="text-cream font-bold text-lg tracking-tight">Stitches</span>
+            <span className="text-gold font-bold text-lg tracking-tight">Stitch</span>
+            <span className="text-cream font-bold text-lg tracking-tight">Website</span>
           </a>
 
           {/* Desktop nav */}

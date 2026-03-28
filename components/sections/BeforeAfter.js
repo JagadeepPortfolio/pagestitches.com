@@ -32,7 +32,7 @@ export default function BeforeAfter() {
         </SpringReveal>
         <SpringReveal>
           <p className="text-sub text-cream-dim max-w-xl mb-14">
-            Most small businesses in Hyderabad are invisible online. A PageStitches website changes that in 48 hours.
+            Most small businesses in Hyderabad are invisible online. A Stitch Website website changes that in 48 hours.
           </p>
         </SpringReveal>
 

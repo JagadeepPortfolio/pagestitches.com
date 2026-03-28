@@ -32,8 +32,8 @@ export default function Footer() {
           <SpringReveal>
             <div>
               <a href="/" className="inline-flex items-center gap-2 mb-4">
-                <span className="text-gold font-bold text-xl">Page</span>
-                <span className="text-cream font-bold text-xl">Stitches</span>
+                <span className="text-gold font-bold text-xl">Stitch</span>
+                <span className="text-cream font-bold text-xl">Website</span>
               </a>
               <p className="text-cream-faint text-sm leading-relaxed max-w-xs mb-6">
                 AI-powered web studio in Hyderabad. Professional websites for local businesses — delivered in 48 hours.
@@ -68,7 +68,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="mt-16 pt-6 border-t border-glass-border flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-cream-faint">
-          <p>© {new Date().getFullYear()} PageStitches. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Stitch Website. All rights reserved.</p>
           <p>
             Built with{" "}
             <span className="text-gold">Claude</span> +{" "}

@@ -4,7 +4,7 @@ import MagneticButton from "@/components/ui/MagneticButton";
 import WorkGrid from "@/components/sections/WorkGrid";
 
 export const metadata = {
-  title: "Our Work — PageStitches | Websites Built in 48 Hours",
+  title: "Our Work — Stitch Website | Websites Built in 48 Hours",
   description:
     "See the websites we've built for businesses in Hyderabad. Every project delivered in 48 hours with a 50-point quality audit. Real results, real businesses.",
 };

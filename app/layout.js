@@ -21,15 +21,15 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata = {
-  title: "PageStitches — Professional Websites for Local Businesses in 48 Hours | Hyderabad",
+  title: "Stitch Website — Professional Websites for Local Businesses in 48 Hours | Hyderabad",
   description:
     "AI-powered web studio in Hyderabad. We build professional, mobile-first websites for clinics, restaurants, CAs, and local businesses. Starting ₹5,999. Delivered in 48 hours.",
   keywords: "web design Hyderabad, website builder Hyderabad, affordable website India, small business website",
   openGraph: {
-    title: "PageStitches — Professional Websites in 48 Hours",
+    title: "Stitch Website — Professional Websites in 48 Hours",
     description: "AI-powered web studio in Hyderabad. Professional websites starting ₹5,999.",
-    url: "https://pagestitches.com",
-    siteName: "PageStitches",
+    url: "https://stitchwebsite.com",
+    siteName: "Stitch Website",
     locale: "en_IN",
     type: "website",
   },
@@ -46,10 +46,10 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "ProfessionalService",
-              name: "PageStitches",
+              name: "Stitch Website",
               description:
                 "AI-powered web studio in Hyderabad building professional websites for local businesses in 48 hours.",
-              url: "https://pagestitches.com",
+              url: "https://stitchwebsite.com",
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Hyderabad",

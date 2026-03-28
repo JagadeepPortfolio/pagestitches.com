@@ -3,9 +3,9 @@ import MagneticButton from "@/components/ui/MagneticButton";
 import FinalCTA from "@/components/sections/FinalCTA";
 
 export const metadata = {
-  title: "About — PageStitches | One Founder. Nine AI Agents.",
+  title: "About — Stitch Website | One Founder. Nine AI Agents.",
   description:
-    "PageStitches is Hyderabad's AI-native web studio. One founder, nine AI agents, 48-hour delivery. Learn how we build agency-quality websites at a fraction of the cost.",
+    "Stitch Website is Hyderabad's AI-native web studio. One founder, nine AI agents, 48-hour delivery. Learn how we build agency-quality websites at a fraction of the cost.",
 };
 
 const agents = [
@@ -75,7 +75,7 @@ export default function AboutPage() {
               <SpringReveal>
                 <div className="space-y-4 text-cream-dim text-[15px] leading-relaxed">
                   <p>
-                    PageStitches is an AI-powered web studio based in Hyderabad.
+                    Stitch Website is an AI-powered web studio based in Hyderabad.
                     Founded by Jagadeep, it uses a team of nine specialized AI
                     agents — orchestrated by a single human — to deliver
                     professional websites in 48 hours.
@@ -171,7 +171,7 @@ export default function AboutPage() {
             "@type": "AboutPage",
             mainEntity: {
               "@type": "ProfessionalService",
-              name: "PageStitches",
+              name: "Stitch Website",
               founder: {
                 "@type": "Person",
                 name: "Jagadeep",

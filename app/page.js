@@ -7,11 +7,11 @@ import FAQ from "@/components/sections/FAQ";
 import FinalCTA from "@/components/sections/FinalCTA";
 
 export const metadata = {
-  title: "PageStitches — Professional Websites for Hyderabad Businesses | ₹5,999",
+  title: "Stitch Website — Professional Websites for Hyderabad Businesses | ₹5,999",
   description:
     "Hyderabad's AI-native web studio. Professional websites in 48 hours starting ₹5,999. Mobile-first, SEO-optimized, WhatsApp-integrated. No templates — every site built from scratch.",
   alternates: {
-    canonical: "https://pagestitches.com",
+    canonical: "https://stitchwebsite.com",
   },
 };
 

@@ -5,7 +5,7 @@ import FAQ from "@/components/sections/FAQ";
 import FinalCTA from "@/components/sections/FinalCTA";
 
 export const metadata = {
-  title: "Services & Pricing — PageStitches | Websites from ₹5,999",
+  title: "Services & Pricing — Stitch Website | Websites from ₹5,999",
   description:
     "Professional websites starting ₹5,999. Three tiers: Starter (48hrs), Pro (72hrs), Premium (10 days). Mobile-first, SEO-optimized, WhatsApp-integrated. Care Plans from ₹2,999/year.",
 };
